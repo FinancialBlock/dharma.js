@@ -70,10 +70,10 @@ export const TOKEN_REGISTRY_TRACKED_TOKENS = [
         decimals: 18,
     },
     {
-        address: "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
-        name: "Maker Dao",
-        symbol: "MKR",
-        decimals: 18,
+        address: "0x69182005335Febe5D51Ce94F530f81cdAe416D42",
+        name: "Financial Aid Coin",
+        symbol: "FAC",
+        decimals: 7,
     },
     {
         address: "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
