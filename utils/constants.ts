@@ -196,10 +196,10 @@ export const TOKEN_REGISTRY_TRACKED_TOKENS = [
         decimals: 18,
     },
     {
-        address: "0x1122b6a0e00dce0563082b6e2953f3a943855c1f",
-        name: "Centrality Token",
-        symbol: "CENNZ",
-        decimals: 18,
+        address: "0x69182005335Febe5D51Ce94F530f81cdAe416D42",
+        name: "Financial Aid Coin ",
+        symbol: "FAC",
+        decimals: 7,
     },
     {
         address: "0x618e75ac90b12c6049ba3b27f5d5f8651b0037f6",
